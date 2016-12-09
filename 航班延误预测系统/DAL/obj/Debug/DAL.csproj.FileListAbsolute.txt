@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\bin\Debug\Model.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\DAL\obj\Debug\DAL.pdb
+E:\新建文件夹 (2)\航班延误预测系统\DAL\bin\Debug\DAL.dll
+E:\新建文件夹 (2)\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+E:\新建文件夹 (2)\航班延误预测系统\DAL\bin\Debug\Model.dll
+E:\新建文件夹 (2)\航班延误预测系统\DAL\bin\Debug\Model.pdb
+E:\新建文件夹 (2)\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\航班延误预测系统\DAL\obj\Debug\DAL.dll
+E:\新建文件夹 (2)\航班延误预测系统\DAL\obj\Debug\DAL.pdb
+H:\航班延误预测系统\DAL\bin\Debug\DAL.dll
+H:\航班延误预测系统\DAL\bin\Debug\DAL.pdb
+H:\航班延误预测系统\DAL\bin\Debug\Model.dll
+H:\航班延误预测系统\DAL\bin\Debug\Model.pdb
+H:\航班延误预测系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\航班延误预测系统\DAL\obj\Debug\DAL.dll
+H:\航班延误预测系统\DAL\obj\Debug\DAL.pdb

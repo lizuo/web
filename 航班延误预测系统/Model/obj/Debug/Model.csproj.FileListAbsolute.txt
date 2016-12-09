@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Model\bin\Debug\Model.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Model\bin\Debug\Model.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Model\obj\Debug\Model.pdb
+H:\航班延误预测系统\Model\bin\Debug\Model.dll
+H:\航班延误预测系统\Model\bin\Debug\Model.pdb
+H:\航班延误预测系统\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\航班延误预测系统\Model\obj\Debug\Model.dll
+H:\航班延误预测系统\Model\obj\Debug\Model.pdb

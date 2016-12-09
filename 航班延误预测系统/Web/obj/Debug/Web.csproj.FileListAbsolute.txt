@@ -1,0 +1,74 @@
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.dll
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.pdb
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\航班延误系统开发文档\航班延误预测系统\Web\bin\Newtonsoft.Json.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll.config
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Newtonsoft.Json.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+C:\Users\韩希鹏\Desktop\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll.config
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Newtonsoft.Json.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.pdb
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+C:\Users\韩希鹏\Desktop\航班延误系统\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll.config
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Newtonsoft.Json.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\BLL.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\DAL.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\bin\Model.pdb
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+E:\航班延误系统开发文档4.12（李作）\航班延误系统开发文档\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\航班延误预测系统.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\BLL.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\DAL.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\Model.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\Newtonsoft.Json.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\BLL.pdb
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\DAL.pdb
+E:\新建文件夹 (2)\航班延误预测系统\Web\bin\Model.pdb
+E:\新建文件夹 (2)\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+E:\新建文件夹 (2)\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
+H:\航班延误预测系统\Web\bin\航班延误预测系统.dll
+H:\航班延误预测系统\Web\bin\航班延误预测系统.pdb
+H:\航班延误预测系统\Web\bin\BLL.dll
+H:\航班延误预测系统\Web\bin\DAL.dll
+H:\航班延误预测系统\Web\bin\Model.dll
+H:\航班延误预测系统\Web\bin\BLL.pdb
+H:\航班延误预测系统\Web\bin\DAL.pdb
+H:\航班延误预测系统\Web\bin\Model.pdb
+H:\航班延误预测系统\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+H:\航班延误预测系统\Web\obj\Debug\航班延误预测系统.dll
+H:\航班延误预测系统\Web\obj\Debug\航班延误预测系统.pdb
